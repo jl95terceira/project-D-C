@@ -18,8 +18,8 @@ classifiers = [
 dynamic = ["dependencies"]
 
 [project.urls]
-Homepage = "https://github.com/jl95terceira/project-D-C"
-Issues = "https://github.com/jl95terceira/project-D-C/issues"
+Homepage = "https://github.com/jl95terceira/project-env-ssl"
+Issues = "https://github.com/jl95terceira/project-env-ssl/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["project/package"]
